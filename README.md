@@ -1,6 +1,8 @@
 # pi_lure
 Raspberry Pi Pokemon Finder
 
+Blinks LEDs on pins 17, 27 & 22
+
 Uses https://github.com/keyphact/pgoapi excellent code
 
 encryption file here: http://pastebin.com/raw/fCSw0Fz4
