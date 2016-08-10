@@ -1,0 +1,318 @@
+//According to http://www.gamerevolution.com/faq/pokemon-go/pokmon-rarity---from-common-to-legendary-with-pictures-125819
+
+COMMON: 
+​#069 Bellsprout
+
+​#010 Caterpie
+
+​#050 Diglett
+
+​#084 Doduo
+
+​#096 Drowzee
+
+​#023 Ekans
+​
+#133 Eevee
+
+#092 Gastly
+
+​#074 Geodude
+
+​#118 Goldeen
+
+​#098 Krabby
+
+​#066 Machop
+
+​​#129 Magikarp
+
+​#081 Magnemite
+
+​​#056 Mankey
+
+#052 Meowth
+
+​#032 Nidoran (F)
+
+#029 Nidoran (M)
+
+#043 Oddish
+
+#046 Paras
+
+#016 Pidgey
+
+#060 Poliwag
+
+#019 Rattata
+
+​#027 Sandshrew
+
+​​#079 Slowpoke
+
+​#048 Venonat​
+
+#100 Voltorb
+
+#013 Weedle
+
+#041 Zubat
+
+
+UNCOMMON:
+
+#063 Abra
+
+​#024 Arbok
+
+​#001 Bulbasaur
+
+​#004 Charmander
+
+#035 Clefairy
+
+#104 Cubone
+
+​#101 Electrode
+
+#102 Exeggcute
+
+#042 Golbat
+
+#075 Graveler
+
+​#088 Grimer
+
+#058 Growlithe
+
+​#093 Haunter
+
+​#106 Hitmonlee
+
+​#116 Horsea
+
+​#039 Jigglypuff
+
+#124 Jynx
+
+#014 Kakuna
+
+​#140 Kabuto
+
+​#064 Kadabra
+
+#109 Koffing
+
+#082 Magneton​
+
+#011 Metapod​
+
+#053 Persian
+
+#017 Pidgeotto
+
+​#025 Pikachu
+
+​#077 Ponyta
+
+#054 Psyduck
+
+​​#020 Raticate​
+
+​#111 Rhyhorn
+
+#028 Sandslash
+
+​#086 Seel
+
+#090 Shellder
+
+​#021 Spearow
+
+​#007 Squirtle
+
+​#120 Staryu
+
+#072 Tentaco
+
+​#037 Vulpix
+
+
+RARE:
+
+#142 Aerodactyl
+
+​#059 Arcanine
+
+#012 Butterfree
+
+​#113 Chansey
+
+#091 Cloyster
+
+​#085 Dodrio 
+
+#147 Dratini
+
+​#051 Dugtrio
+
+​#125 Electabuzz
+
+​#083 Farfetch'd
+
+​#022 Fearow
+
+#136 Flareon
+
+#055 Golduck 
+
+#044 Gloom
+
+​#107 Hitmonchan
+
+​#097 Hypno
+
+#135 Jolteon
+
+#099 Kingler
+
+#108 Lickitung
+
+#068 Machamp
+
+​#067 Machoke
+
+​#126 Magmar
+
+​#122 Mr. Mime
+
+#030 Nidorina
+
+#033 Nidorino
+
+#038 Ninetales
+
+​#138 Omanyte
+
+#095 Onix
+
+​#047 Parasect
+
+#061 Poliwhirl
+
+#137 Porygon
+
+​#057 Primeape
+
+#078 Rapidash
+
+​#112 Rhydon
+
+#117 Seadra
+
+#119 Seaking 
+
+​​#123 Scyther
+
+​#143 Snorlax
+
+#121 Starmie
+
+#114 Tangela
+
+​#073 Tentacruel
+
+​#110 Weezing
+
+#040 Wigglytuff
+
+
+VERY RARE:
+#065 Alakazam
+
+#015 Beedrill
+
+#005 Charmeleon
+
+​#087 Dewgong 
+
+​#148 Dragonair
+
+#103 Exeggutor
+
+#094 Gengar
+
+#076 Golem
+
+#130 Gyarados
+
+#002 Ivysaur
+
+​#141 Kabutops
+
+#115 Kangaskhan
+
+#131 Lapras
+
+​#105 Marowak
+
+#089 Muk 
+
+#034 Nidoking
+
+#031 Nidoqueen 
+
+​#139 Omastar
+
+#018 Pidgeot
+
+#127 Pinsir
+
+#062 Poliwrath
+
+#026 Raichu
+
+#080 Slowbro
+
+#134 Vaporeon
+
+#049 Venomoth
+
+#071 Victreebel 
+
+#045 Vileplume
+
+​#008 Wartortle
+
+#070 Weepinbell
+
+
+EPIC:
+
+#009 Blastoise
+
+#006 Charizard
+
+#036 Clefable
+
+​#149 Dragonite
+
+#128 Tauros
+
+​​#003 Venusaur
+
+
+LEGENDARY:
+
+#144 Articuno
+
+#132 Ditto 
+
+#151 Mew
+
+#150 Mewtwo
+
+#146 Moltres
+
+#145 Zapdos​
